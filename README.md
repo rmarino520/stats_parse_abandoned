@@ -9,5 +9,3 @@ Data analytics on all data and enter into new schema
 Create website pulling data from DB
 Might get back to it one day...
 
-
-/stats_parse_abandoned
